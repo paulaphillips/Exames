@@ -27,7 +27,7 @@
 				<leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
 					<file pinned="false" current-in-tab="true">
 						<entry
-							file="file://$PROJECT_DIR$/src/action/LoginAction.java">
+							file="file://$PROJECT_DIR$/src/action/ExamesAction.java">
 							<provider selected="true" editor-type-id="text-editor">
 								<state relative-caret-position="352">
 									<caret line="31" selection-start-line="31"
@@ -124,9 +124,9 @@
 			<list>
 				<option value="$PROJECT_DIR$/WebContent/adiciona_exame.jsp" />
 				<option
-					value="$PROJECT_DIR$/src/main/java/action/LoginAction.java" />
+					value="$PROJECT_DIR$/src/main/java/action/ExamesAction.java" />
 				<option
-					value="$PROJECT_DIR$/src/main/java/action/LoginAction.java" />
+					value="$PROJECT_DIR$/src/main/java/action/ExamesAction.java" />
 				<option value="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
 				<option
 					value="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" />
@@ -409,7 +409,7 @@
 			</provider>
 		</entry>
 		<entry
-			file="file://$PROJECT_DIR$/src/main/java/action/LoginAction.java">
+			file="file://$PROJECT_DIR$/src/main/java/action/ExamesAction.java">
 			<provider selected="true" editor-type-id="text-editor">
 				<state relative-caret-position="352">
 					<caret line="31" selection-start-line="31"

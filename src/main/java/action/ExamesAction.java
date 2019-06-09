@@ -15,7 +15,7 @@ import model.Exame;
 @Action(value = "default", results = { @Result(name = "SUCCESS", location = "/welcome.jsp"),
 		@Result(name = "ERROR", location = "/error.jsp") })
 @Namespaces(value = { @Namespace("/"), @Namespace("/") })
-public class LoginAction {
+public class ExamesAction {
 
 	public Exame exame = new Exame();
 
